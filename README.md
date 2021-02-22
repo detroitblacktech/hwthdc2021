@@ -22,7 +22,7 @@ This is the central location for all slides and code that's being presented at t
 
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
-| Contain Yourself: Containers & Serverless (12pm - 1pm)| TBD | [View]()|[View]()|
+| Contain Yourself: Containers & Serverless (12pm - 1pm)| Mack Hendricks | [View]()|[View](https://github.com/mackhendricks/containersandserverless)|
 | WebAuthn: Hands on with Duo (1pm - 2pm)| Jake Payton, Matthew Miller, Jeremy Erickson (Duo Security) | [View](https://docs.google.com/presentation/d/1n3xILDEO56sUfNGfbTOvWIpmWBZAdS2AjtuYxv9jwQU/edit?ts=602bec5f#slide=id.g7e92ecccc8_1_19)|[View](https://github.com/duo-labs/webauthn.io)
 | Advanced Security in B2C Solutions (2pm - 3pm) | Andrew Cameron | [View]()|[View]()|
 | Managing Secrets across Multiple Clouds (3pm - 4pm) | Eric Jones | [View]()|[View]()|
