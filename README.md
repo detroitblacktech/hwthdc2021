@@ -12,7 +12,7 @@ This is the central location for all slides and code that's being presented at t
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
 | Opening Session (12pm-1pm) | Kelsey Hightower | ||
-| Deploying your app to the Cloud (1pm-2pm) | Tameika Reed |[View]() |[View]()|
+| Deploying your app to the Cloud (1pm-2pm) | Tameika Reed |[View](https://docs.google.com/presentation/d/1rWeX3IWP8uT26vF71FtbBwcVWb1cA7xvZByuvUTJ8uM/edit#slide=id.g7e92ecccc8_1_19) |[View]()|
 | Automating Deployments using DevOp's (2pm-3pm) | Tracy P. Holmes| [View](https://docs.google.com/presentation/d/1UNqiNtaG0SBUQHh_b9s7LHAvXK_9Cg-7VXbyRD9aJrA/edit?ts=60333c03#slide=id.g7e92ecccc8_1_19)| [View](https://github.com/tracypholmes/terraform-k8s-demo)|
 | Deploying to the Cloud without the Baggage (3pm-4pm)| Ivan Herndon|[View](https://docs.google.com/presentation/d/1TXB72B7Id2DeZNwi83eQm_2lbv9PXyDLVeinCdNP6Uc/edit#slide=id.g7e92ecccc8_1_19)|[View]( https://github.com/EmblemDevCo/Next-Netlify-Demo)|
 | Programmable Communications in the Cloud without Twilio (4pm-5pm) | Pedro Sanders | [View](https://docs.google.com/presentation/d/1SVpLjhojMXxo19JkVemOYySF7lYscE6CN5iDno88QyQ/edit?usp=sharing)|[View](http://github.com/psanders/fonos101)|
