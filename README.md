@@ -1,4 +1,4 @@
-# Hacking With The Homies Developer Conference Central Repository
+# Hacking With The Homies Developer Conference 2021 Central Repository
 
 This is the central location for all slides and code that's being presented at the conference.  We have also provided links to some reference information.
 
@@ -26,6 +26,6 @@ This is the central location for all slides and code that's being presented at t
 | WebAuthn: Hands on with Duo (1pm - 2pm)| Jake Payton, Matthew Miller, Jeremy Erickson (Duo Security) | [View](https://docs.google.com/presentation/d/1n3xILDEO56sUfNGfbTOvWIpmWBZAdS2AjtuYxv9jwQU/edit?ts=602bec5f#slide=id.g7e92ecccc8_1_19)|[View](https://github.com/MasterKale/SimpleWebAuthn/)
 | Advanced Security in B2C Solutions (2pm - 3pm) | Andrew Cameron | [View](https://drive.google.com/file/d/1f-gXj90lqlUy0PiRWO4bqgvVGIkNNivL/view)|[View](https://github.com/cameronka/B2CSecurityDemo)|
 | Managing Secrets across Multiple Clouds (3pm - 4pm) | Eric Jones | [View](https://docs.google.com/presentation/d/17rfHVCkox2vwmhPDF1Or3v0A8czNDR5fjfc8w2T-euI/)|[View](https://github.com/ExternalReality/hwh2021)|
-| Keeping Your Deployment Pipeline Secure: Zero Trust in the Cloud (4pm - 5pm) | Xavier D. Johnson | [View]()|[View]()|
+| Keeping Your Deployment Pipeline Secure: Zero Trust in the Cloud (4pm - 5pm) | Xavier D. Johnson | [View](https://docs.google.com/presentation/d/1268L-vDUdW4C1PZNNeirlvqNVSFrxCUmUVKK5Oo85XU/edit?usp=sharing)|[View](https://github.com/infenet/attackingtheSDLC)|
 
 ## Cheetsheets
