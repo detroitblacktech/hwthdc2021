@@ -23,7 +23,7 @@ This is the central location for all slides and code that's being presented at t
 | Topic | Speaker | Slides | Repository |
 | ------- | ----- | -------| ---------- |
 | Contain Yourself: Containers & Serverless (12pm - 1pm)| Mack Hendricks & Shelton Graves| [View](https://docs.google.com/presentation/d/140pY54Ui9su7V5tj6SWtefjbQnkRhT0Hguv1TWbjqvA/edit?usp=sharing)|[View](https://github.com/mackhendricks/containersandserverless)|
-| WebAuthn: Hands on with Duo (1pm - 2pm)| Jake Payton, Matthew Miller, Jeremy Erickson (Duo Security) | [View](https://docs.google.com/presentation/d/1n3xILDEO56sUfNGfbTOvWIpmWBZAdS2AjtuYxv9jwQU/edit?ts=602bec5f#slide=id.g7e92ecccc8_1_19)|[View](https://github.com/MasterKale/SimpleWebAuthn/)
+| WebAuthn: Hands on with Duo (1pm - 2pm)| Jake Payton, Matthew Miller, Jeremy Erickson (Duo Security) | [View](https://docs.google.com/presentation/d/1U0G-hTGiHxikFjxXzqAy8JGwgBQqnZOg4Cyg6gd2ztM/edit?usp=sharing)|[View](https://github.com/MasterKale/SimpleWebAuthn/)
 | Advanced Security in B2C Solutions (2pm - 3pm) | Andrew Cameron | [View](https://docs.google.com/presentation/d/1P16GEiymIwO2BpdcUWkK8F2qsHAM7KtWq1N44TZ9L3c/edit?usp=sharing)|[View](https://github.com/cameronka/B2CSecurityDemo)|
 | Managing Secrets across Multiple Clouds (3pm - 4pm) | Eric Jones | [View](https://docs.google.com/presentation/d/17rfHVCkox2vwmhPDF1Or3v0A8czNDR5fjfc8w2T-euI/)|[View](https://github.com/ExternalReality/hwh2021)|
 | Keeping Your Deployment Pipeline Secure: Zero Trust in the Cloud (4pm - 5pm) | Xavier D. Johnson | [View](https://docs.google.com/presentation/d/1268L-vDUdW4C1PZNNeirlvqNVSFrxCUmUVKK5Oo85XU/edit?usp=sharing)|[View](https://github.com/infenet/attackingtheSDLC)|
